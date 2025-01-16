@@ -1,8 +1,8 @@
 #!/bin/bash
 
 # Secure Automated Web Server Setup (Apache/Nginx)
-# Author: [Your Name]
-# Date: [YYYY-MM-DD]
+# Author: Muneeb Akram
+# Date: 2025-16-01
 # Description: This script sets up a secure web server on a Linux instance.
 
 # Variables
