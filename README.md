@@ -1,4 +1,4 @@
-# Secure Automated Web Server Setup
+# Server Provisioning Automation with Best Security Practices
 
 This project automates the **secure installation** of a web server (Apache/Nginx) on a Linux instance.  
 It follows **security best practices** to protect against common vulnerabilities.
